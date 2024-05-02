@@ -23,19 +23,19 @@
 <br />
 
   ## Projects
-  * IT 커리어 성장형 네트워킹 서비스, [틈틈]
-
+  * 개인 수학 학습 취약점 분석 어플리케이션
+  https://github.com/FullAccel/ChaeDa_backend_spring
 <br/>
 
   ## Experiences
-  * Depromeet 14th - Android Developer
+  * Konkuk Univ. Graduation project - https://github.com/FullAccel/ChaeDa_backend_spring
   * Konkuk Univ. 1st Hackathon - Excellence Award ([EyeToDo](https://github.com/FullAccel))
 
   <br/>
 
   <br/><hr/>
   
-  ![seyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueme0&show_icons=true&theme=onedark&count_private=true&bg_color=90,e9f5db,ffffff&text_color=344e41&title_color=000000)
+  ![sejoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejoon00&show_icons=true&theme=onedark&count_private=true&bg_color=90,e9f5db,ffffff&text_color=344e41&title_color=000000)
 
 <!--
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueme0&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
