@@ -1,4 +1,4 @@
-<div>
+<div align="center" width = "600px">
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblueme0&count_bg=%2386AC79&title_bg=%2386AC79&icon=smugmug.svg&icon_color=%23FFFFFF&title=welcome&edge_flat=false)](https://hits.seeyoufarm.com)
   
@@ -41,7 +41,7 @@ Hi! I am Hayoon Lee <br/>
       <img height="25px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
     </div>
 </div>
-
+</div>
 <br />
 <br />
 
