@@ -2,28 +2,27 @@
 
   ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=10&height=100&section=header&text=Sejun's%20GitHub&fontAlignY=50&fontAlign=50&fontSize=30&animation=fadeIn)
   
-  <br/><br/><br/>
+  <br/>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblueme0&count_bg=%2386AC79&title_bg=%2386AC79&icon=smugmug.svg&icon_color=%23FFFFFF&title=welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  <br/><br/>
+  <br/>
   ## Currently 
   <!--### Hi there, I'm👋 -->
   * Majoring Computer Science Engineering in Konkuk Univ. (2020.03 - )
 
-
 <br />
 
 <h3>About Me👋</h3>
-Hi! I am Hayoon Lee <br/>
-🏫 I am a student in Konkuk University <br/>
-🖥 My major is Computer Science <br/>
+안녕하세요 박세준입니다. <br/>
+🏫 건국대학교 재학중 <br/>
+🖥 컴퓨터공학 전공 <br/>
 <br/>
 
 <div style="text-align: center;">
   My Blog: 
     <a href="https://preparingfor.tistory.com/">
-      <img align="center" src="https://github-readme-tistory-card.vercel.app/api/badge?name=sejun" alt="Velog's GitHub stats">
+      <img align="center" src="https://github-readme-tistory-card.vercel.app/api/badge?name=sejun's blog" alt="Velog's GitHub stats">
     </a>
 </div>
 
