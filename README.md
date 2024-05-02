@@ -12,14 +12,10 @@
   ## Tech Stack
 
   <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"></a> &nbsp
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=spring&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a> &nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"></a> &nbsp
   <br/> <br/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a> &nbsp 
   <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp 
   <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></p>
     
@@ -28,8 +24,6 @@
 
   ## Projects
   * IT 커리어 성장형 네트워킹 서비스, [틈틈]
-    <a href="https://play.google.com/store/apps/details?id=com.teumteum.teumteum"><img src="https://img.shields.io/badge/Google Play-414141?style=flat-sqaure&logo=Google Play&logoColor=white"></a>
-    <a href="https://github.com/depromeet/TeumTeum-Android"><img src="https://img.shields.io/badge/Github-414141?style=flat-sqaure&logo=Github&logoColor=white"></a>
 
 <br/>
 
