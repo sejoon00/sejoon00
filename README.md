@@ -1,4 +1,6 @@
 <div align="center" width = "600px">
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=10&height=100&section=header&text=Sejun's%20GitHub&fontAlignY=50&fontAlign=50&fontSize=30&animation=fadeIn)
+  <br/><br/><br/>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblueme0&count_bg=%2386AC79&title_bg=%2386AC79&icon=smugmug.svg&icon_color=%23FFFFFF&title=welcome&edge_flat=false)](https://hits.seeyoufarm.com)
   
@@ -18,7 +20,7 @@ Hi! I am Hayoon Lee <br/>
 <div style="text-align: center;">
   My Blog: 
     <a href="https://preparingfor.tistory.com/">
-      <img align="center" src="https://github-readme-tistory-card.vercel.app/api/badge?name={sejun}" alt="Velog's GitHub stats">
+      <img align="center" src="https://github-readme-tistory-card.vercel.app/api/badge?name=sejun" alt="Velog's GitHub stats">
     </a>
 </div>
 
