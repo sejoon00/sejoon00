@@ -22,7 +22,7 @@
 <div style="text-align: center;">
   My Blog: 
     <a href="https://preparingfor.tistory.com/">
-      <img align="center" src="https://github-readme-tistory-card.vercel.app/api/badge?name=sejun blog" alt="Velog's GitHub stats">
+      <img align="center" src="https://github-readme-tistory-card.vercel.app/api/badge?name=SejunBlog" alt="tistory's GitHub stats">
     </a>
 </div>
 
