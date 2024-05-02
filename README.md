@@ -9,16 +9,39 @@
 
 <br />
 
-  ## Tech Stack
+<h3>About Me👋</h3>
+Hi! I am Hayoon Lee <br/>
+🏫 I am a student in Konkuk University <br/>
+🖥 My major is Computer Science <br/>
+<br/>
 
-  <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=spring&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a> &nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
-  <br/> <br/>
-  <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></p>
-    
+<div style="text-align: center;">
+  My Blog: 
+    <a href="https://preparingfor.tistory.com/">
+      <img align="center" src="https://github-readme-tistory-card.vercel.app/api/badge?name={sejun}" alt="Velog's GitHub stats">
+    </a>
+</div>
+
+<br/><br/>
+
+<div style="align: center;">
+    <h3>📚Tech Stacks📚</h3>
+    <div>
+      <img height="25px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <br/>
+      <img height="25px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img height="25px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+      <img height="25px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+      <br/>
+      <img height="25px" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+      <img height="25px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+      <br/>
+      <img height="25px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img height="25px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    </div>
+</div>
+
 <br />
 <br />
 
@@ -35,8 +58,6 @@
 
   <br/><hr/>
   
-  ![sejoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejoon00&show_icons=true&theme=onedark&count_private=true&bg_color=90,e9f5db,ffffff&text_color=344e41&title_color=000000)
-
 <!--
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueme0&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
