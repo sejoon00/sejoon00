@@ -52,12 +52,13 @@
   ## Projects
   * 개인 수학 학습 취약점 분석 어플리케이션
   https://github.com/FullAccel/ChaeDa_backend_spring
+  * 건국대 정보운영팀 근로 출근 시스템 https://github.com/konkuk-icteam-student/attendance_backend.git
 <br/>
 
   ## Experiences
   * Konkuk Univ. Graduation project - https://github.com/FullAccel/ChaeDa_backend_spring
   * Konkuk Univ. 1st Hackathon - Excellence Award ([EyeToDo](https://github.com/FullAccel))
-  * 건국대 정보운영팀 근로 출근 시스템 - https://github.com/konkuk-icteam-student/attendance_backend.git
+
 
   <br/>
 
