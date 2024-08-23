@@ -50,9 +50,12 @@
 <br />
 
   ## Projects
+  * 취준 자소서 관리 서비스 뽀각
+  https://github.com/depromeet/bbo-gak-server
   * 개인 수학 학습 취약점 분석 어플리케이션
   https://github.com/FullAccel/ChaeDa_backend_spring
-  * 건국대 정보운영팀 근로 출근 시스템 https://github.com/konkuk-icteam-student/attendance_backend.git
+  * 건국대 학생개발팀 학사 로드맵 설계 서비스 KU RoadMap
+  https://github.com/Konkuk-Univ-Student-Developer/KUSD_SERVER
 <br/>
 
   ## Experiences
