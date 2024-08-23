@@ -7,9 +7,10 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblueme0&count_bg=%2386AC79&title_bg=%2386AC79&icon=smugmug.svg&icon_color=%23FFFFFF&title=welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
   <br/>
-  ## Currently 
+## Currently
+  
   <!--### Hi there, I'm👋 -->
-  * Majoring Computer Science Engineering in Konkuk Univ. (2020.03 - )
+* Majoring Computer Science Engineering in Konkuk Univ. (2020.03 - )
 
 <br />
 
