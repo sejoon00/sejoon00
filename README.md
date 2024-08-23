@@ -51,8 +51,8 @@
 
   ## History
   <li> 건국대학교 컴퓨터공학과 (2020.03 ~) <sub> </sub></li>
-  <li><a href="https://github.com/sejoon00/BibimBap_spring_session">건국대 IT 동아리 비빔밥 스프링 세션장</a>   
- <sub> (2023.03 ~ 12) </sub></li>
+  <li><a href="https://munple.notion.site/spring-boot-f92f13123481438f825c91e3229d8eb7?pvs=4">건국대 IT 동아리 비빔밥 스프링 세션장</a> <sub> (2023.03 ~ 12) </sub></li>
+  <li><a href="https://munple.notion.site/60972f737308425f9b9eed186f143dfd?pvs=4">건국대 IT 동아리 비빔밥 풀스택 세션장</a> <sub> (2024.03 ~ 07) </sub></li>
   <li><a href="https://github.com/depromeet">디프만 15기</a> <sub>(2024.06 ~ 09)</sub></li>
   <li>건국대 학생개발팀 장학생 <sub>(2024.07 ~ 08)</sub></li>
   
