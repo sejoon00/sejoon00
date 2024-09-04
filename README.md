@@ -58,7 +58,7 @@ Majoring Computer Science Engineering in Konkuk Univ. (2020.03 - )
   
   ## Projects
   * 취준 자소서 관리 서비스 뽀각
-  https://bbogak.com
+  https://bbogak.com
   * 개인 수학 학습 취약점 분석 어플리케이션
   https://github.com/FullAccel/ChaeDa_backend_spring
   * 건국대 학생개발팀 학사 로드맵 설계 서비스 KU RoadMap
