@@ -45,7 +45,7 @@ Majoring Computer Science Engineering in Konkuk Univ. (2020.03 - 2025.08)
 <br />
 
   ## History
-  <li>당근마켓 커뮤니티실 인턴 <sub>(2025.03 ~ 재직중)</sub></li>
+  <li>당근마켓 커뮤니티실 백엔드 인턴 <sub>(2025.03 ~ 재직중)</sub></li>
   <li><a href="https://github.com/depromeet">디프만 16기 운영진</a> <sub>(2024.09 ~ 2025.04)</sub></li>
   <li>건국대 학생개발팀 장학생 <sub>(2024.07 ~ 08)</sub></li>
   <li><a href="https://github.com/depromeet">디프만 15기</a> <sub>(2024.06 ~ 09)</sub></li>
