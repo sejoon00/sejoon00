@@ -4,8 +4,6 @@
   
   <br/>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblueme0&count_bg=%2386AC79&title_bg=%2386AC79&icon=smugmug.svg&icon_color=%23FFFFFF&title=welcome&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## Currently
   
   <!--### Hi there, I'm👋 -->
@@ -50,15 +48,17 @@ Majoring Computer Science Engineering in Konkuk Univ. (2020.03 - )
 <br />
 
   ## History
-  <li> 건국대학교 컴퓨터공학과 (2020.03 ~) <sub> </sub></li>
-  <li><a href="https://munple.notion.site/spring-boot-f92f13123481438f825c91e3229d8eb7?pvs=4">건국대 IT 동아리 비빔밥 스프링 세션장</a> <sub> (2023.03 ~ 12) </sub></li>
-  <li><a href="https://munple.notion.site/60972f737308425f9b9eed186f143dfd?pvs=4">건국대 IT 동아리 비빔밥 풀스택 세션장</a> <sub> (2024.03 ~ 07) </sub></li>
-  <li><a href="https://github.com/depromeet">디프만 15기</a> <sub>(2024.06 ~ 09)</sub></li>
-  <li>건국대 학생개발팀 장학생 <sub>(2024.07 ~ 08)</sub></li>
-  <li><a href="https://github.com/depromeet">디프만 16기 운영진</a> <sub>(2024.09 ~ 2025.04)</sub></li>
   <li>당근마켓 커뮤니티실 인턴 <sub>(2025.03 ~ 재직중)</sub></li>
+  <li><a href="https://github.com/depromeet">디프만 16기 운영진</a> <sub>(2024.09 ~ 2025.04)</sub></li>
+  <li>건국대 학생개발팀 장학생 <sub>(2024.07 ~ 08)</sub></li>
+  <li><a href="https://github.com/depromeet">디프만 15기</a> <sub>(2024.06 ~ 09)</sub></li>
+  <li><a href="https://munple.notion.site/60972f737308425f9b9eed186f143dfd?pvs=4">건국대 IT 동아리 비빔밥 풀스택 세션장</a> <sub> (2024.03 ~ 07) </sub></li>
+  <li><a href="https://munple.notion.site/spring-boot-f92f13123481438f825c91e3229d8eb7?pvs=4">건국대 IT 동아리 비빔밥 스프링 세션장</a> <sub> (2023.03 ~ 12) </sub></li>
+  <li> 건국대학교 컴퓨터공학과 (2020.03 ~) <sub> </sub></li>
   
   ## Projects
+  * 포인터 : 하루 3문항 수학 기출 분석 서비스
+  https://github.com/team-ppointer/pointer_server
   * 취준 자소서 관리 서비스 뽀각
   https://bbogak.com
   * 개인 수학 학습 취약점 분석 어플리케이션
@@ -68,6 +68,7 @@ Majoring Computer Science Engineering in Konkuk Univ. (2020.03 - )
 <br/>
 
   ## Experiences
+  * 2025 Google Developer Group of Campus New Year 전국 연합 해커톤 최우수상 ([레포] (https://github.com/New-Year-Hackathon-Google/Server))
   * Konkuk Univ. Graduation project - https://github.com/FullAccel/ChaeDa_backend_spring
   * Konkuk Univ. 1st Hackathon - Excellence Award ([EyeToDo](https://github.com/FullAccel))
 
