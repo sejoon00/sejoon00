@@ -68,7 +68,7 @@ Majoring Computer Science Engineering in Konkuk Univ. (2020.03 - )
 <br/>
 
   ## Experiences
-  * 2025 Google Developer Group of Campus New Year 전국 연합 해커톤 최우수상 ([레포] (https://github.com/New-Year-Hackathon-Google/Server))
+  * 2025 Google Developer Group of Campus New Year 전국 연합 해커톤 최우수상 ([깃허브 레포](https://github.com/New-Year-Hackathon-Google/Server))
   * Konkuk Univ. Graduation project - https://github.com/FullAccel/ChaeDa_backend_spring
   * Konkuk Univ. 1st Hackathon - Excellence Award ([EyeToDo](https://github.com/FullAccel))
 
