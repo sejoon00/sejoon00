@@ -7,7 +7,7 @@
 ## Currently
   
   <!--### Hi there, I'm👋 -->
-Majoring Computer Science Engineering in Konkuk Univ. (2020.03 - )
+Majoring Computer Science Engineering in Konkuk Univ. (2020.03 - 2025.08)
 
 <br />
 
