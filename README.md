@@ -24,23 +24,20 @@ Majoring Computer Science Engineering in Konkuk Univ. (2020.03 - 2025.08)
     </a>
 </div>
 
-<br/><br/>
+<br/>
 
 <div style="align: center;">
     <h3>📚Tech Stacks📚</h3>
     <div>
       <img height="25px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-      <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-      <br/>
-      <img height="25px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-      <img height="25px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-      <img height="25px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+      <img height="25px" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
       <br/>
       <img height="25px" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
       <img height="25px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
       <br/>
       <img height="25px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
       <img height="25px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+      <img height="25px" src="https://img.shields.io/badge/Exposed-3DDC84?style=for-the-badge&logo=jetbrains&logoColor=white">
     </div>
 </div>
 </div>
